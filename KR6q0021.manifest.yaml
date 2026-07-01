@@ -1,0 +1,283 @@
+canonical_identifier: bkk:krp/KR6q0021/v1
+canonical_location: https://kanripo.org/bkk/KR6q0021/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 五燈全書目錄
+  identifiers:
+    alt_id:
+    - X81n1570
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X81/X81n1570.xml
+    old_id: X81n1570
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0021_000.yaml, hash: 'sha256:44037ad2d6479af0d1f96f1afa2073b35377c9cde209e280125144972253d1a3'}
+  - {seq: 1, filename: KR6q0021_001.yaml, hash: 'sha256:94df57bd076fc3b02ca716f4c498205333d4ad8310ea3570712aaf13b4c5c5da'}
+  - {seq: 2, filename: KR6q0021_002.yaml, hash: 'sha256:db75a9b680cde8e393cd3f3c496ed79f69ecb7127738f3bc37043b110aa678a3'}
+  - {seq: 3, filename: KR6q0021_003.yaml, hash: 'sha256:bfda609bfdaa9169852294377bdba9a4cd37554b34ded7900a1ced727874d645'}
+  - {seq: 4, filename: KR6q0021_004.yaml, hash: 'sha256:89526464af5c365ff1999fd8e627f45fb3f030631ac9ede4cdfb3a4af49b1aae'}
+  - {seq: 5, filename: KR6q0021_005.yaml, hash: 'sha256:57ce862a07a207ede3e6ae83fabdf9d5b35e22b2315420de0f1f612d71d448c5'}
+  - {seq: 6, filename: KR6q0021_006.yaml, hash: 'sha256:7355cb3bd8add63bf00fcda3a46e78b2bb440e973df74b6e47f7332fb408d1df'}
+  - {seq: 7, filename: KR6q0021_007.yaml, hash: 'sha256:5a4d9bb448c6c81ddf5701fbd2040a0069bc27ef73dd20e00708fb2275504743'}
+  - {seq: 8, filename: KR6q0021_008.yaml, hash: 'sha256:61be351acae77dc4287e2a9b653223228c8622b78a51425560e3081a70c55b2a'}
+  - {seq: 9, filename: KR6q0021_009.yaml, hash: 'sha256:4d4dc6a4171591e23bf02154a528a2bc2bf337bf6da2e42314d02d7018d034b0'}
+  - {seq: 10, filename: KR6q0021_010.yaml, hash: 'sha256:069cd4c49d94c71336bff62a6c4c27384204c15d2fdc44e7e6480fc7fa525142'}
+  - {seq: 11, filename: KR6q0021_011.yaml, hash: 'sha256:1359f707dae79ac19ae0c460de3e2987687cdcd3542641546465a7193f9d81fb'}
+  - {seq: 12, filename: KR6q0021_012.yaml, hash: 'sha256:4d1bfc364c272f7283375e2d9db526582b5ac9802afd2c4de9c89a56b6eb97db'}
+  - {seq: 13, filename: KR6q0021_013.yaml, hash: 'sha256:96c56663677490aa37b03115544637eda1b55fc1f764f92cd1c029eaf3ed92f2'}
+  - {seq: 14, filename: KR6q0021_014.yaml, hash: 'sha256:20c48197d02b2f8938684258e6737607cfc4ba744f296554423045ffcecec446'}
+  - {seq: 15, filename: KR6q0021_015.yaml, hash: 'sha256:4e9301cfd5c980de7bb24583167af638529b3f2bafb38fea009f111e279df6ca'}
+  - {seq: 16, filename: KR6q0021_016.yaml, hash: 'sha256:c806f0002bf9753393dfc9a95077be6a6a5b996552f57050104413f31bdff460'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0021_000.markers.yaml, hash: 'sha256:56b3bd75049c74f77ae4fe66bcba8191cd1045e29d462d48d2ec6a8c121df560'}
+  - {seq: 1, role: markers, filename: assets/KR6q0021_001.markers.yaml, hash: 'sha256:ceb7cf4ba7a33cdd3b4900cf216ad7667b97662b1f8963e07e442968b0b0d359'}
+  - {seq: 2, role: markers, filename: assets/KR6q0021_002.markers.yaml, hash: 'sha256:68032344a72c064562bc81f5b6d0aa4ce1c6f486381b60dc7f89520f22a4c04d'}
+  - {seq: 3, role: markers, filename: assets/KR6q0021_003.markers.yaml, hash: 'sha256:55603d6314e82479f05d9e7c630cf57918225913c0e8cb2cd8d2f60fd57ff223'}
+  - {seq: 4, role: markers, filename: assets/KR6q0021_004.markers.yaml, hash: 'sha256:bd72d13eee767b4e764d52c54152a61a6fa204eefa3650a4bb47263bfa57bfc4'}
+  - {seq: 5, role: markers, filename: assets/KR6q0021_005.markers.yaml, hash: 'sha256:8d9e931083ef69b239af26836d29ba72a1e2c633a12ee67844c702113a2e399d'}
+  - {seq: 6, role: markers, filename: assets/KR6q0021_006.markers.yaml, hash: 'sha256:5218102c38a7e89d1544443934e30a0268dc6f6a94e769bb31b772f5b2f6aa62'}
+  - {seq: 7, role: markers, filename: assets/KR6q0021_007.markers.yaml, hash: 'sha256:8434a5d6b1cbac5cabd5e21f282772fd14e135313c5763645897e3c2d9531dfa'}
+  - {seq: 8, role: markers, filename: assets/KR6q0021_008.markers.yaml, hash: 'sha256:4ab5bce7d601d5f114670a7a4f789894029777e7e7fa48b01d67b957eeb46876'}
+  - {seq: 9, role: markers, filename: assets/KR6q0021_009.markers.yaml, hash: 'sha256:8b99e94068133e5ca0f250ab19d127a0e409436f86bc6d2327c9f4088e3f4dda'}
+  - {seq: 10, role: markers, filename: assets/KR6q0021_010.markers.yaml, hash: 'sha256:0ef5788eac3d1e1d3fdd7a312e9bc4b39c4875a19ae1567b0c2ecc3fe2aec1a4'}
+  - {seq: 11, role: markers, filename: assets/KR6q0021_011.markers.yaml, hash: 'sha256:709385c6489e8498a2a7a41f088d050be4b46c6cd6fb3d6ceb22e9e516dd44c4'}
+  - {seq: 12, role: markers, filename: assets/KR6q0021_012.markers.yaml, hash: 'sha256:9c8a1fa0b64ced431be9ee88f0f29f73c6306398a8fd4834ab1c4f30e522aae8'}
+  - {seq: 13, role: markers, filename: assets/KR6q0021_013.markers.yaml, hash: 'sha256:ffaf8441f2c1f77da83469e1d392ca544f23782fedb6154eba993c8df9b6f115'}
+  - {seq: 14, role: markers, filename: assets/KR6q0021_014.markers.yaml, hash: 'sha256:631648f0357698226db2de81712e092d591b8fa56ddb3b8acb08853df124f36d'}
+  - {seq: 15, role: markers, filename: assets/KR6q0021_015.markers.yaml, hash: 'sha256:854f2e90fb6dd37fef8fdfc4c4f058dc575e05f50c6b2c8434c77fa7b536b197'}
+  - {seq: 16, role: markers, filename: assets/KR6q0021_016.markers.yaml, hash: 'sha256:16d8bdf4d961e33e47f2df4d61a05c6129f8dc1b660730c4966b13c38a8e6e10'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0021_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1570-A
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0021_X_000-mulu-2
+    span:
+    - front
+    - 247
+    - 247
+  label: No. 1570-B 五燈全書目序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0021_X_000-mulu-3
+    span:
+    - front
+    - 748
+    - 748
+  label: No. 1570-C 五燈全書序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0021_X_000-mulu-4
+    span:
+    - front
+    - 1773
+    - 1773
+  label: No. 1570-D 五燈全書進呈奏疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0021_X_000-mulu-5
+    span:
+    - front
+    - 2292
+    - 2292
+  label: No. 1570-E 五燈全書進呈奏疏
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0021_X_000-mulu-6
+    span:
+    - front
+    - 2652
+    - 2652
+  label: 五燈全書凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0021_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 4201
+  label: 五燈全書目錄卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6q0021_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 4383
+  label: 五燈全書目錄卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6q0021_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 3969
+  label: 五燈全書目錄卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6q0021_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 3778
+  label: 五燈全書目錄卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6q0021_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 3341
+  label: 五燈全書目錄卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6q0021_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 7194
+  label: 五燈全書目錄卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6q0021_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 1511
+  label: 五燈全書目錄卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6q0021_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 1559
+  label: 五燈全書目錄卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6q0021_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 2163
+  label: 五燈全書目錄卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6q0021_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 2350
+  label: 五燈全書目錄卷第十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6q0021_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 1945
+  label: 五燈全書目錄卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6q0021_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 1293
+  label: 五燈全書目錄卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6q0021_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 5119
+  label: 五燈全書目錄卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6q0021_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 5299
+  label: 五燈全書目錄卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6q0021_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 4337
+  label: 五燈全書目錄卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6q0021_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 1710
+  label: 五燈全書目錄卷第十六
+  type: juan
+  level: 1
+hash: sha256:1b0182759e17b36fb372978d48eee7a0f80888a65dad56e7b961397554d14f3e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
