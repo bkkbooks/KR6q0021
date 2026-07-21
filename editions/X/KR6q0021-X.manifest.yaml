@@ -19,7 +19,7 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0021_000-X.yaml, hash: 'sha256:077eb1e737b6dc75e5fb9092adb75e7781a63e8e942af42169b9063da96bc7ff'}
+  - {seq: 0, filename: KR6q0021_000-X.yaml, hash: 'sha256:7fcbfc0bed88a9e76cd380d5b0fddf90b0a9f336e6ae8bbb5394319ef230947f'}
   - {seq: 1, filename: KR6q0021_001-X.yaml, hash: 'sha256:40fa4f527dc4c852adca25b3bf7245fca67c9a107f004636ed32e199363e9133'}
   - {seq: 2, filename: KR6q0021_002-X.yaml, hash: 'sha256:1f224b73a336a525ab02410f3e7bea3e03437c2a03daecf8064ce42ca1cbecf2'}
   - {seq: 3, filename: KR6q0021_003-X.yaml, hash: 'sha256:4656284704dc2debf14bb9b5f2cd9c9beb8245016197b72c30db50c0702d4183'}
@@ -37,7 +37,7 @@ assets:
   - {seq: 15, filename: KR6q0021_015-X.yaml, hash: 'sha256:74234286b2ed09f16319ae78e86526089e4eb28311a5ee569e4684362529a7ee'}
   - {seq: 16, filename: KR6q0021_016-X.yaml, hash: 'sha256:073b4aac8895133215d61c6c42a0120b452edd37a2b404fae6b08ffcb5e4e653'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0021_000-X.markers.yaml, hash: 'sha256:45efc4bd3182e2dabecf1075672fd15cd0983483692249cc6002928ddbce94c4'}
+  - {seq: 0, role: markers, filename: assets/KR6q0021_000-X.markers.yaml, hash: 'sha256:c55dd297c7cd61fe09803169e4f50db98e299b6486fcf29937ef75f560087288'}
   - {seq: 1, role: markers, filename: assets/KR6q0021_001-X.markers.yaml, hash: 'sha256:921184afc53e131b24fd1349f35d14ff7b91febcf28ac0c81f464640cd01e8be'}
   - {seq: 2, role: markers, filename: assets/KR6q0021_002-X.markers.yaml, hash: 'sha256:ddbb6a10f0e244912029eaf252901d8aaf8517001081e379974f4f94e9826d62'}
   - {seq: 3, role: markers, filename: assets/KR6q0021_003-X.markers.yaml, hash: 'sha256:f51799392c827f365a866cd000a9056d34b33859cd76e329c733853852a6a94d'}
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0021_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1570-A
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0021_X_000-mulu-2
     span:
-    - front
+    - body
     - 247
     - 247
   label: No. 1570-B 五燈全書目序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0021_X_000-mulu-3
     span:
-    - front
+    - body
     - 748
     - 748
   label: No. 1570-C 五燈全書序
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0021_X_000-mulu-4
     span:
-    - front
+    - body
     - 1773
     - 1773
   label: No. 1570-D 五燈全書進呈奏疏
@@ -99,7 +99,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0021_X_000-mulu-5
     span:
-    - front
+    - body
     - 2292
     - 2292
   label: No. 1570-E 五燈全書進呈奏疏
@@ -109,7 +109,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0021_X_000-mulu-6
     span:
-    - front
+    - body
     - 2652
     - 2652
   label: 五燈全書凡例
@@ -275,4 +275,4 @@ table_of_contents:
   label: 五燈全書目錄卷第十六
   type: juan
   level: 1
-hash: sha256:cd9753fad5ab7f062ddacbb16ad3c4fcf9db775099030ba7128ca4404330e392
+hash: sha256:2ccf4b5423a8618ea8bc7496cc26e36fb2fe935efec653712aa6142381073419
